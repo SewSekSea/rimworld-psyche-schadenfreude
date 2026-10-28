@@ -1,0 +1,51 @@
+{
+  "name": "Schadenfreude",
+  "packageId": "tb.schadenfreude",
+  "assemblyName": "Schadenfreude",
+  "repositoryName": "rimworld-psyche-schadenfreude",
+  "workshopId": null,
+  "metadataVersions": [
+    "1.6",
+    "1.7"
+  ],
+  "originalSourceUnit": "Development/Schadenfreude",
+  "sourceSnapshotUtc": "2026-10-28T17:10:20.705Z",
+  "sourceFileFingerprints": [
+    {
+      "path": "About/About.xml",
+      "sha256": "1628FA1BE059480985D986C91C4571919CBCBBEC241EB8FB63F707BEB3B0C55B",
+      "bytes": 893
+    },
+    {
+      "path": "About/Preview.png",
+      "sha256": "78BDBB176B041EFDB622EA12C99201084ADFCED79C899A4DD5592FCCA4A86A43",
+      "bytes": 100069
+    },
+    {
+      "path": "Defs/ThoughtDefs/Schadenfreude.xml",
+      "sha256": "8B1F411719DF84878F9167988C6483FBF1BFFC2EE02CF80F7D52D00DEB61A347",
+      "bytes": 1476
+    },
+    {
+      "path": "Source/Appraisal.cs",
+      "sha256": "08CA5597B95D6D77D3371FAB8A4CA221483235ECA2A1C08AA436DBA7F0730420",
+      "bytes": 1046
+    },
+    {
+      "path": "Source/Runtime.cs",
+      "sha256": "98F5EC9CC24934050F5083EE72C92B376B7FACD8B7D7C249395D21383D0D3136",
+      "bytes": 7227
+    },
+    {
+      "path": "Source/Schadenfreude.csproj",
+      "sha256": "CCD0A5D5913DB702B92EEC542522586989E9076BD61B423511D6586914AC9C2B",
+      "bytes": 1348
+    }
+  ],
+  "stagedProjectAdjustments": [],
+  "build16": "NOT_RUN_THIS_PASS",
+  "build17": "COMPILED_AGAINST_LOCAL_1.7_API",
+  "nativePlaytest": "NOT_RUN_THIS_PUBLICATION_PASS",
+  "gameplaySourceModified": false,
+  "compiled17SHA256": "306BCC8526C7D0F92FE03CF4F0154BBA8A7E9669AC26EB0B588CDC70ABE434B6"
+}

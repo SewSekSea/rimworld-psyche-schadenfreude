@@ -1,0 +1,13 @@
+**/bin/
+**/obj/
+.build/
+Assemblies/*.dll
+Assemblies/*.pdb
+*.user
+*.suo
+.vs/
+.vscode/
+.env*
+Local.settings.*
+*.rws
+*.zip
